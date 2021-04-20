@@ -1,0 +1,2 @@
+# WEB-SCRAPING-with-BeautifulSoup
+There are mainly two ways to extract data from a website:  Use the API of the website (if it exists). For example, Facebook has the Facebook Graph API which allows retrieval of data posted on Facebook. Access the HTML of the webpage and extract useful information/data from it. This technique is called web scraping or web harvesting or web data extraction. This article discusses the steps involved in web scraping using the implementation of a Web Scraping framework of Python called Beautiful Soup.
